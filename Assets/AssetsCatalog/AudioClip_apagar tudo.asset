@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0475fa5076406174caf100d45ad65aa0, type: 3}
+  m_Name: AudioClip_apagar tudo
+  m_EditorClassIdentifier: 
+  AssetName: apagar tudo
+  IsFromDevKit: 1
+  _tag: apagar_tudo
+  Type: AudioClip
+  Ignore: 0
+  RelativePath: /BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/apagar
+    tudo.wav

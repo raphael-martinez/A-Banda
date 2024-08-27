@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1283904213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ad942a9bdd1dec7772e55eea0641b5a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a31e1505e189a9885bcbe2bbbab40e9b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/n.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/r.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/t.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE0.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/bannedWords.txt
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/h.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE8.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/f.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/apagar.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/espa\xE7o.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xED.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE4.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\u2019.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/mute.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/alfabeto.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/strings.json
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/u.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF3.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE1.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/apagar
+  tudo.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/w.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/d.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Audios/BlockedFiltersMessage.mp3
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/acentos.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/x.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/m.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/i.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/o.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/keyboardConfiguration.json
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF5.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/e.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/s.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/b.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xEF.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF9.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/y.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/q.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE7.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/g.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE3.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/,.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/k.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/-.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xFB.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/seta direita.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xEB.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/registrar.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/l.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/c.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF2.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/seta esquerda.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE9.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/ponto.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xEE.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xEA.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xE2.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF6.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/z.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/v.wav
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/j.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xF4.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/p.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xEC.wav"
+- Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/a.wav
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xFA.wav"
+- "Assets/BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/\xFC.wav"
+Dependencies: []

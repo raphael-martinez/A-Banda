@@ -1,0 +1,599 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32c3579b3ea0914ba3a29cf93398c6a, type: 3}
+  m_Name: AssetsCatalog
+  m_EditorClassIdentifier: 
+  Assets:
+  - {fileID: 11400000, guid: fdc2165e66d279249a928f2b361e8ac8, type: 2}
+  - {fileID: 11400000, guid: 3dd8cd08ee02c314abd0f58b3192e7f4, type: 2}
+  - {fileID: 11400000, guid: 3cfa640b5203b0045844ed4a35faf8c8, type: 2}
+  - {fileID: 11400000, guid: 25a5aeaaaa9785b46a0d82727e58ca4d, type: 2}
+  - {fileID: 11400000, guid: bc9efb87f6f92e64da30783c7b37fa47, type: 2}
+  - {fileID: 11400000, guid: 24d402c10af9c084ba5906a81ee7d15b, type: 2}
+  - {fileID: 11400000, guid: b43bbab4796fb294282895fb257ec120, type: 2}
+  - {fileID: 11400000, guid: fbdbc50b401dddd4d876816e7f06def9, type: 2}
+  - {fileID: 11400000, guid: a5f0a7d063d31a0478474b5e82d546a8, type: 2}
+  - {fileID: 11400000, guid: dcb192df06f5a97429ae3b50df9ce998, type: 2}
+  - {fileID: 11400000, guid: 60b97129085eb394fb2e76e5ae0300e3, type: 2}
+  - {fileID: 11400000, guid: 015cd79ef6c3fc346a00e987cef59942, type: 2}
+  - {fileID: 11400000, guid: 677366beda88de246b665e1cca8d9756, type: 2}
+  - {fileID: 11400000, guid: 029b52ad642b4004993e273823e22b54, type: 2}
+  - {fileID: 11400000, guid: e6b41ea18cee43d4ab025920064e8a52, type: 2}
+  - {fileID: 11400000, guid: 3fd421ba7560cbf44a3fce45c5ee7040, type: 2}
+  - {fileID: 11400000, guid: 66a416fc7df91e24bb90703ede79b50e, type: 2}
+  - {fileID: 11400000, guid: 4fd9e7a13ecadb747ad9598c63144164, type: 2}
+  - {fileID: 11400000, guid: 5695be5c20a0b7740944b95dc008f32b, type: 2}
+  - {fileID: 11400000, guid: 3771651a5d784764dbe0ee5bcdcf0405, type: 2}
+  - {fileID: 11400000, guid: 19f0c52ad0faf084ea4375f2b359459f, type: 2}
+  - {fileID: 11400000, guid: 45eb727e9e40fdc4a93185a36f1eb08a, type: 2}
+  IgnoredAssets:
+  - AssetName: Background
+    IsFromDevKit: 1
+    Tag: Background
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: DisplayBackground
+    IsFromDevKit: 1
+    Tag: DisplayBackground
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: DisplayBar
+    IsFromDevKit: 1
+    Tag: DisplayBar
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Backspace
+    IsFromDevKit: 1
+    Tag: Key_Backspace
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Backspace_Down
+    IsFromDevKit: 1
+    Tag: Key_Backspace_Down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Big
+    IsFromDevKit: 1
+    Tag: Key_Big
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Big_Base
+    IsFromDevKit: 1
+    Tag: Key_Big_Base
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Big_Cancel
+    IsFromDevKit: 1
+    Tag: Key_Big_Cancel
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Big_Confirm
+    IsFromDevKit: 1
+    Tag: Key_Big_Confirm
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Big_Down
+    IsFromDevKit: 1
+    Tag: Key_Big_Down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_ClearAll
+    IsFromDevKit: 1
+    Tag: Key_ClearAll
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_ClearAll_Down
+    IsFromDevKit: 1
+    Tag: Key_ClearAll_Down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: key_narration
+    IsFromDevKit: 1
+    Tag: key_narration
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: key_narration_down
+    IsFromDevKit: 1
+    Tag: key_narration_down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: key_narration_iconOFF
+    IsFromDevKit: 1
+    Tag: key_narration_iconOFF
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: key_narration_iconON
+    IsFromDevKit: 1
+    Tag: key_narration_iconON
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Simple
+    IsFromDevKit: 1
+    Tag: Key_Simple
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Simple_Down
+    IsFromDevKit: 1
+    Tag: Key_Simple_Down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Space
+    IsFromDevKit: 1
+    Tag: Key_Space
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Space_Down
+    IsFromDevKit: 1
+    Tag: Key_Space_Down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Key_Special
+    IsFromDevKit: 1
+    Tag: Key_Special
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: key_special_down
+    IsFromDevKit: 1
+    Tag: key_special_down
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: shift
+    IsFromDevKit: 1
+    Tag: shift
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: Popup
+    IsFromDevKit: 1
+    Tag: Popup
+    Type: AnimatorController
+    RelativePath: 
+  - AssetName: PopupClose
+    IsFromDevKit: 1
+    Tag: PopupClose
+    Type: AnimationClip
+    RelativePath: 
+  - AssetName: PopupOpen
+    IsFromDevKit: 1
+    Tag: PopupOpen
+    Type: AnimationClip
+    RelativePath: 
+  - AssetName: popup1Button
+    IsFromDevKit: 1
+    Tag: popup1Button
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popup2Button
+    IsFromDevKit: 1
+    Tag: popup2Button
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popup3Button
+    IsFromDevKit: 1
+    Tag: popup3Button
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popupButtonBig
+    IsFromDevKit: 1
+    Tag: popupButtonBig
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popupButtonBig_Pressed
+    IsFromDevKit: 1
+    Tag: popupButtonBig_Pressed
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popupButtonSmall
+    IsFromDevKit: 1
+    Tag: popupButtonSmall
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: popupButtonSmall_Pressed
+    IsFromDevKit: 1
+    Tag: popupButtonSmall_Pressed
+    Type: Texture2D
+    RelativePath: 
+  - AssetName: keyboardConfiguration
+    IsFromDevKit: 1
+    Tag: keyboardConfiguration
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: a
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: b
+    IsFromDevKit: 1
+    Tag: b
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: c
+    IsFromDevKit: 1
+    Tag: c
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: d
+    IsFromDevKit: 1
+    Tag: d
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: e
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: f
+    IsFromDevKit: 1
+    Tag: f
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: g
+    IsFromDevKit: 1
+    Tag: g
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: h
+    IsFromDevKit: 1
+    Tag: h
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: i
+    IsFromDevKit: 1
+    Tag: i
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: j
+    IsFromDevKit: 1
+    Tag: j
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: k
+    IsFromDevKit: 1
+    Tag: k
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: l
+    IsFromDevKit: 1
+    Tag: l
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: m
+    IsFromDevKit: 1
+    Tag: m
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: n
+    IsFromDevKit: 1
+    Tag: n
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: o
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: p
+    IsFromDevKit: 1
+    Tag: p
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: q
+    IsFromDevKit: 1
+    Tag: q
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: r
+    IsFromDevKit: 1
+    Tag: r
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: s
+    IsFromDevKit: 1
+    Tag: s
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: t
+    IsFromDevKit: 1
+    Tag: t
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: u
+    IsFromDevKit: 1
+    Tag: u
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: v
+    IsFromDevKit: 1
+    Tag: v
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: w
+    IsFromDevKit: 1
+    Tag: w
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: x
+    IsFromDevKit: 1
+    Tag: x
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: y
+    IsFromDevKit: 1
+    Tag: y
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: z
+    IsFromDevKit: 1
+    Tag: z
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: '-'
+    IsFromDevKit: 1
+    Tag: 
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: ~e
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE0"
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE1"
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE2"
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE3"
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE4"
+    IsFromDevKit: 1
+    Tag: a
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE8"
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE9"
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xEA"
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xEB"
+    IsFromDevKit: 1
+    Tag: e
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xEC"
+    IsFromDevKit: 1
+    Tag: i
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xED"
+    IsFromDevKit: 1
+    Tag: i
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xEE"
+    IsFromDevKit: 1
+    Tag: i
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xEF"
+    IsFromDevKit: 1
+    Tag: i
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF1"
+    IsFromDevKit: 1
+    Tag: n
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF2"
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF3"
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF4"
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF5"
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF6"
+    IsFromDevKit: 1
+    Tag: o
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xF9"
+    IsFromDevKit: 1
+    Tag: u
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xFA"
+    IsFromDevKit: 1
+    Tag: u
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xFB"
+    IsFromDevKit: 1
+    Tag: u
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xFC"
+    IsFromDevKit: 1
+    Tag: u
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\u2019"
+    IsFromDevKit: 1
+    Tag: 
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: "\xE7"
+    IsFromDevKit: 1
+    Tag: c
+    Type: AudioClip
+    RelativePath: 
+  - AssetName: PlaytableAudioMixer
+    IsFromDevKit: 1
+    Tag: PlaytableAudioMixer
+    Type: AudioMixerController
+    RelativePath: 
+  - AssetName: LineBreaking Following Characters
+    IsFromDevKit: 1
+    Tag: LineBreaking_Following_Characters
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: LineBreaking Leading Characters
+    IsFromDevKit: 1
+    Tag: LineBreaking_Leading_Characters
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: TMP Settings
+    IsFromDevKit: 1
+    Tag: TMP_Settings
+    Type: TMP_Settings
+    RelativePath: 
+  - AssetName: Fonts & Materials/LiberationSans SDF - Drop Shadow
+    IsFromDevKit: 1
+    Tag: LiberationSans_SDF__Drop_Shadow
+    Type: Material
+    RelativePath: 
+  - AssetName: Fonts & Materials/LiberationSans SDF - Outline
+    IsFromDevKit: 1
+    Tag: LiberationSans_SDF__Outline
+    Type: Material
+    RelativePath: 
+  - AssetName: Fonts & Materials/LiberationSans SDF
+    IsFromDevKit: 1
+    Tag: LiberationSans_SDF
+    Type: TMP_FontAsset
+    RelativePath: 
+  - AssetName: Shaders/TMPro
+    IsFromDevKit: 1
+    Tag: TMPro
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: Shaders/TMPro_Properties
+    IsFromDevKit: 1
+    Tag: TMPro_Properties
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: Shaders/TMPro_Surface
+    IsFromDevKit: 1
+    Tag: TMPro_Surface
+    Type: TextAsset
+    RelativePath: 
+  - AssetName: Shaders/TMP_Bitmap-Custom-Atlas
+    IsFromDevKit: 1
+    Tag: TMP_BitmapCustomAtlas
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_Bitmap-Mobile
+    IsFromDevKit: 1
+    Tag: TMP_BitmapMobile
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_Bitmap
+    IsFromDevKit: 1
+    Tag: TMP_Bitmap
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF Overlay
+    IsFromDevKit: 1
+    Tag: TMP_SDF_Overlay
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF-Mobile Masking
+    IsFromDevKit: 1
+    Tag: TMP_SDFMobile_Masking
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF-Mobile Overlay
+    IsFromDevKit: 1
+    Tag: TMP_SDFMobile_Overlay
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF-Mobile
+    IsFromDevKit: 1
+    Tag: TMP_SDFMobile
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF-Surface-Mobile
+    IsFromDevKit: 1
+    Tag: TMP_SDFSurfaceMobile
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF-Surface
+    IsFromDevKit: 1
+    Tag: TMP_SDFSurface
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_SDF
+    IsFromDevKit: 1
+    Tag: TMP_SDF
+    Type: Shader
+    RelativePath: 
+  - AssetName: Shaders/TMP_Sprite
+    IsFromDevKit: 1
+    Tag: TMP_Sprite
+    Type: Shader
+    RelativePath: 
+  - AssetName: Sprite Assets/EmojiOne
+    IsFromDevKit: 1
+    Tag: EmojiOne
+    Type: TMP_SpriteAsset
+    RelativePath: 
+  - AssetName: Style Sheets/Default Style Sheet
+    IsFromDevKit: 1
+    Tag: Default_Style_Sheet
+    Type: TMP_StyleSheet
+    RelativePath: 
+  - AssetName: GameSettings
+    IsFromDevKit: 1
+    Tag: GameSettings
+    Type: GameSettings
+    RelativePath: 
+  - AssetName: ','
+    IsFromDevKit: 1
+    Tag: 
+    Type: AudioClip
+    RelativePath: /BundlesAssets/Global/Localization/pt-br_Framework/Keyboard/Audios/,.wav
+  IgnoredFolders: []

@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2347742349
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc9d6f7065b2555d618c8b8970dd0f07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a31e1505e189a9885bcbe2bbbab40e9b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/t.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/seta esquerda.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/d.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/g.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/bannedWords.txt
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/n.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/s.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/w.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/a.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/k.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/j.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/seta direita.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/alfabeto.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/f.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/strings.json
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/o.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/q.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/acentos.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/b.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/r.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/v.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/apagar.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/e.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/c.mp3
+- "Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/espa\xE7o.mp3"
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Audios/BlockedFiltersMessage.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/x.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/keyboardConfiguration.json
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/m.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/y.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/limpar.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/u.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/p.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/i.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/h.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/z.mp3
+- Assets/BundlesAssets/Global/Localization/en-us_Framework/Keyboard/Audios/l.mp3
+Dependencies: []

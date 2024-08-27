@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 2191972300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c74f10b695f0a3bc5aa08534a7dfe2ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 655bc24484118c3d0147cc9ad6d132c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aced080049eff1541acd49f56053e21c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2fcc3b05acde424f98a534dec574f4d, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aaebf7442d427f048931f37e9981a147, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54cd8a1737bb40a418c44a4bd027d9fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 240346374701055429b98129c578af7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Big_Confirm.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popup1Button.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popup3Button.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/key_narration_iconON.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Space_Down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popupButtonBig_Pressed.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Backspace_Down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Simple_Down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Big_Down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popup2Button.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Popup2Button.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Space.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/key_special_down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popupButtonSmall.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Big_Base.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Popup1Button.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_ClearAll_Down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popupButtonBig.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/shift.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/key_narration.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Background.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Animations/Popup.controller
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_ClearAll.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/PopupButtonText.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Big.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Animations/PopupOpen.anim
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/key_narration_iconOFF.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/DisplayBar.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Special.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Backspace.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Animations/PopupClose.anim
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Keyboard.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/DisplayBackground.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Big_Cancel.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/key_narration_down.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Fader.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Popup3Button.prefab
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Popups/Sprites/popupButtonSmall_Pressed.png
+- Assets/BundlesAssets/Global/Data/PlaymoveFramework/Keyboard/Sprites/Key_Simple.png
+Dependencies: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2019c7a9ac86c5c42b0a870256049e4e, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  _port: 8081
+  _GUID: 418D22D4-B541-45D3-AD69-A31CF2ACF246
+  _executableName: ABanda
+  _expansion: 
+  _language: pt-BR
+  _playFromPlaytableBootstrap: 1
+  _mute: 0
+  _volume: 1
+  _micVolume: 0.8
+  _minSlots: 4
+  _totalSlots: 4
+  _maxPlayersPerSlot: 1
+  _hasAI: 0

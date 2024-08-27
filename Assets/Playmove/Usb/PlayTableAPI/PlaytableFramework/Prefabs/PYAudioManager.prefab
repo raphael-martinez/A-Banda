@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 450006}
+  - component: {fileID: 11401338}
+  m_Layer: 0
+  m_Name: PYAudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &450006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101150}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.119222, y: 1.0998485, z: -60.08008}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11401338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d88d2aeb76a9c4eb182b4bef2bf8ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Mixer: {fileID: 24100000, guid: 12eaaa99bfdceb044984b88eff1eaf60, type: 2}
+  PreviousVoice: 46
+  _groupKeys: 00000000020000000100000003000000
+  _groupValues:
+  - Group: 0
+    Volume: 1
+    Mute: 0
+  - Group: 2
+    Volume: 1
+    Mute: 0
+  - Group: 1
+    Volume: 1
+    Mute: 0
+  - Group: 3
+    Volume: 1
+    Mute: 0
+  _audios:
+  - Tag: Voice_ptBR_Cancelar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Cancelar
+  - Tag: Voice_ptBR_Confirmar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Confirmar
+  - Tag: Voice_ptBR_DesculpeMasEsteNomeJaEstaRegistrado
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/DesculpeMasEsteNomeJaEstaRegistrado
+  - Tag: "Voice_ptBR_JogadorN\xE3oRegistrado"
+    GroupTag: 3
+    PathToClip: "Audios/Voice/ptBR/JogadorN\xE3oRegistrado"
+  - Tag: "Voice_ptBR_N\xE3oRegistrado"
+    GroupTag: 3
+    PathToClip: "Audios/Voice/ptBR/N\xE3oRegistrado"
+  - Tag: Voice_ptBR_Pular
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Pular
+  - Tag: Voice_ptBR_SelecioneSuaTurma
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/SelecioneSuaTurma
+  - Tag: Voice_ptBR_TudoTerminado
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/TudoTerminado
+  - Tag: Voice_ptBR_TudoTerminadoAgora
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/TudoTerminadoAgora
+  - Tag: Voice_ptBR_Attention
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Attention
+  - Tag: Voice_ptBR_Continuar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Continuar
+  - Tag: Voice_ptBR_DeleteMsg01
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/DeleteMsg01
+  - Tag: Voice_ptBR_DeleteMsg02
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/DeleteMsg02
+  - Tag: Voice_ptBR_DeleteMsg03
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/DeleteMsg03
+  - Tag: Voice_ptBR_DeleteScore
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/DeleteScore
+  - Tag: Voice_ptBR_Easy
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Easy
+  - Tag: Voice_ptBR_GameMode
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/GameMode
+  - Tag: Voice_ptBR_Hard
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Hard
+  - Tag: Voice_ptBR_InvalidNameMsg
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/InvalidNameMsg
+  - Tag: Voice_ptBR_Menu
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Menu
+  - Tag: Voice_ptBR_MusicOff
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/MusicOff
+  - Tag: Voice_ptBR_MusicOn
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/MusicOn
+  - Tag: Voice_ptBR_NarrationOn
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/NarrationOn
+  - Tag: Voice_ptBR_No
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/No
+  - Tag: Voice_ptBR_Normal
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Normal
+  - Tag: Voice_ptBR_NovoNome
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/NovoNome
+  - Tag: Voice_ptBR_Placar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Placar
+  - Tag: Voice_ptBR_PlacarMsg01
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/PlacarMsg01
+  - Tag: Voice_ptBR_Registrar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Registrar
+  - Tag: Voice_ptBR_RegistrarMsg02
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/RegistrarMsg02
+  - Tag: Voice_ptBR_RegistrarPop01
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/RegistrarPop01
+  - Tag: Voice_ptBR_RegistrarPop02
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/RegistrarPop02
+  - Tag: Voice_ptBR_RegistrarPop03
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/RegistrarPop03
+  - Tag: Voice_ptBR_Sair
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Sair
+  - Tag: Voice_ptBR_SairMsg01
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/SairMsg01
+  - Tag: Voice_ptBR_SoundOff
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/SoundOff
+  - Tag: Voice_ptBR_SoundOn
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/SoundOn
+  - Tag: Voice_ptBR_TimeOver
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/TimeOver
+  - Tag: Voice_ptBR_VoiceSair
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/VoiceSair
+  - Tag: Voice_ptBR_Voltar
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Voltar
+  - Tag: Voice_ptBR_Yes
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Yes
+  - Tag: Voice_ptBR_EscrevaONomeQueDeseja
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/EscrevaONomeQueDeseja
+  - Tag: Voice_ptBR_EsteNomeJaEstaRegistrado
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/EsteNomeJaEstaRegistrado
+  - Tag: Voice_ptBR_Registrado
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/Registrado
+  - Tag: Voice_ptBR_SelecioneNaListaOu
+    GroupTag: 3
+    PathToClip: Audios/Voice/ptBR/SelecioneNaListaOu
